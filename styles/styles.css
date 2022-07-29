@@ -1,0 +1,18 @@
+/*
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+*/
+h1 {
+    color: black;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+}
+
+.fab, .far {
+    font-weight: 400;
+}
